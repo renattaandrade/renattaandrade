@@ -1,4 +1,4 @@
-# Hi, I'm Renatta Andrade! 👋
+# Hi, I'm Renatta! 👋
 
 I am a **Computer Engineering Student** and **Researcher at Ford Motor Company**, specializing in **Data Engineering** and **Generative AI**.
 
